@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nader295/nader295/main/assets/avatar.svg" width="180" alt="Nader — نادر" />
-
 # مرحباً 👋 أنا نادر
 ### Hello — I'm Nader
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Android+Developer;Kotlin+%C2%B7+GitHub+Actions;Tools+that+push+hardware+harder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Learning+in+public;Beginner%2C+one+commit+at+a+time;Kotlin+%C2%B7+Git+%C2%B7+GitHub+Actions" alt="Typing SVG" />
 
 <br/>
 
-**مطوّر أندرويد · Android Developer**
+**مبتدئ يتعلّم بالبناء · Beginner learning by building**
 
 <p dir="rtl">
-أبني أدوات أندرويد تنتزع أقصى أداء من العتاد، بأدوات مفتوحة وتوثيق صادق.
+أنا نادر، مبتدئ في عالم البرمجة. أتعلّم خطوة بخطوة بالتجربة والبناء،
+وكل ما أتعلّمه أكتبه هنا بصدق — بلا مبالغة وبلا ادّعاء خبرة.
 </p>
 
 <p>
-I build Android tools that squeeze real performance out of hardware —
-with open tooling and honest documentation.
+I'm Nader, a beginner in code. I learn step by step by building and
+experimenting, and I write down what I learn here — honestly, without
+overstating what I know.
 </p>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack · التقنيات
+### 🛠️ ما أتعلّمه الآن · Learning now
 
 <div align="center">
 
