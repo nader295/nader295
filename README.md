@@ -1,30 +1,28 @@
 <div align="center">
 
-# مرحباً 👋 أنا نادر
-### Hello — I'm Nader
+# نادر · Nader
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Learning+in+public;Beginner%2C+one+commit+at+a+time;Kotlin+%C2%B7+Git+%C2%B7+GitHub+Actions" alt="Typing SVG" />
+**Kotlin & Android Developer — مطوّر أندرويد**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=50&lines=Building+Android+apps+with+Kotlin;Writing+clean%2C+maintainable+code;Learning+in+public" alt="Typing SVG" />
 
 <br/>
 
-**مبتدئ يتعلّم بالبناء · Beginner learning by building**
-
 <p dir="rtl">
-أنا نادر، مبتدئ في عالم البرمجة. أتعلّم خطوة بخطوة بالتجربة والبناء،
-وكل ما أتعلّمه أكتبه هنا بصدق — بلا مبالغة وبلا ادّعاء خبرة.
+أطوّر تطبيقات أندرويد باستخدام Kotlin، وأهتم بجودة الكود وسهولة صيانته.
+أعمل على مشاريع حقيقية، وأتعلّم الجديد وأطبّقه باستمرار.
 </p>
 
 <p>
-I'm Nader, a beginner in code. I learn step by step by building and
-experimenting, and I write down what I learn here — honestly, without
-overstating what I know.
+I build Android apps with Kotlin, focusing on clean and maintainable code.
+I work on real projects and keep learning, applying what I pick up.
 </p>
 
 </div>
 
 ---
 
-### 🛠️ ما أتعلّمه الآن · Learning now
+### 🧰 Tech Stack · التقنيات
 
 <div align="center">
 
