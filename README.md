@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nader295/nader295/main/assets/avatar.svg" width="180" alt="Nader — نادر" />
+
 # مرحباً 👋 أنا نادر
 ### Hello — I'm Nader
 
